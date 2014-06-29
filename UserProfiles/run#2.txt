@@ -1,0 +1,12 @@
+User's Courses:
+Model Thinking
+Introduction to Logic
+Web Intelligence and Big Data
+
+Friends' Courses:
+Mathematical Methods for Quantitative Finance
+Introduction to Mathematical Philosophy
+Dynamical Modeling Methods for Systems Biology
+Introduction to Systems Biology
+High Performance Scientific Computing
+Big Data and Information Dissemination

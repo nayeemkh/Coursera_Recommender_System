@@ -1,0 +1,11 @@
+User's Courses:
+Introductory Human Physiology
+Mathematical Biostatistics Boot Camp
+Discrete Optimization
+
+Friends' Courses:
+Automata
+Competitive Strategy
+R Programming
+The Data Scientist’s Toolbox
+Introduction to Mathematical Philosophy

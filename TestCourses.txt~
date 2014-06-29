@@ -1,0 +1,145 @@
+Introductory Human Physiology
+Duke University
+Homeostatic control systems
+Function of individual organs and organ systems
+Integration of organ systems in the intact organism
+
+Mathematical Biostatistics Boot Camp
+Johns Hopkins University
+The goal of this course is to equip biostatistics and quantitative scientists with core applied statistical concepts and methods:
+Students will learn basic mathematical biostatistics including probability distributions and their properties.
+Students will learn the basics of statistical likelihood.
+Students will learn the basics of confidence intervals.
+The course will introduce students to the display and communication of statistical data. This will include graphical and exploratory data analysis using tools like scatterplots, boxplots and the display of multivariate data. 
+
+Bioinformatics: Introduction and Methods
+Peking University
+Week   1:    Introduction and history 
+                   Sequence alignment
+Week   2:    Sequence database search 
+                   Ontology and pathway identification
+Week   3:    Markov Model and Hidden Markov Model 
+                   Bioinformatic database and software resources
+Week   4:    Next generation sequencing(NGS): reads mapping & variants calling 
+                   Functional prediction of genetic variants
+Week   5:    NGS RNA-Seq and transcriptome analysis 
+                   Prediction and analysis of noncoding RNAs
+Week   6:    Case study I--Origination and evolution of new genes 
+                   Case study II--Evolution function analysis of DNA methyltransferase
+
+Introduction to Forensic Science
+Nanyang Technological University, Singapore
+Week 1
+Topic: Introduction
+Synopsis: The first section illustrates the scope and diversity of forensic science, and places it in its legal context. Basic ideas, such as association and reconstruction are discussed, the all important Locard exchange principle is expounded and some of the limits of forensic science are suggested. The ideas in the Introduction underpin all subsequent sections.
+Case studies in this section: Walter Dinivan and Jetkor Singh; The Roberto Calvi case; Buck Ruxton and the Jigsaw Murders; The 2005 London bombings; The Brides in the Bath; Gareth Williams; The Wood Chipper murders.
+Week 2
+Topic 1: Spectroscopy and the Structure of Atoms
+Synopsis: This section seeks to link the concept of atomic structure with the methods for the determination of the presence of different elements in a given sample. This allows students to understand how these techniques can be reliable and sensitive.
+Case studies in this section: The Death of Napoleon; The Kennedy Assassination; Adam, the Torso in the Thames
+Topic 2: Chromatography and Molecular Spectroscopy
+Synopsis: Some of the ideas of the preceding section are extended here, as they can apply to the analyses of compounds. The methods of Chromatography, Infra-red spectroscopy and mass spectrometry are also discussed. These are essential for later sections, such as Drugs and Toxicology.
+Week 3
+Topic 1: Time of Death
+Synopsis: The changes that the body and bodily remains undergo on time scales ranging from minutes to centuries are key to determining the time of death. These are surveyed in this section.
+Case studies in this section: Peter Thomas; Danielle van Dam; Ötzi.
+Topic 2: Blood
+Synopsis: Blood will be spilled in violent crimes. In this section, methods to identify and individualise blood are discussed, but DNA methods are left to a separate section. The information that can be deduced from blood spatter is discussed.
+Case studies in this section: Christopher Nudds; Lord Lucan
+Week 4
+Topic: DNA
+Synopsis: DNA has become essential and ubiquitous in forensic science. The nature of DNA and how it can be employed are presented in this section. The section includes the first DNA case, cold cases, paternity and maternity testing, mitochondrial DNA and several other topics.
+Case studies in this section: Colin Pitchfork, The Identification of the Last Tsar of Russia; The story of Peter Falconio and Joanne Lees.
+Week 5
+Topic 1: Fingerprinting
+Synopsis: Fingerprinting is introduced by a short history. The composition, means of visualisation and classification of fingerprints is discussed, and the question of faking them is raised.
+Case studies in this section: The Pioneering Stratton Brothers; the Brandon Mayfield Debacle.
+Topic 2: Polymers and Fibres
+Synopsis: Fibres, whether natural or synthetic, make up a large part of our world and how they can be used in forensic science is the subject of this section. This includes discussion of the different kinds of fibre, how to distinguish and individualise them. The importance of hair is highlighted. This section draws upon knowledge from the spectroscopy and chromatography sections.
+Case studies in this section: Robert Curley; Wayne Williams; Sarah Payne
+Topic 3: Firearms
+Synopsis: Around the World, firearms are involved in many crimes. In this section, a brief history and explanation of firearms is presented. Forensic topics, including GSR and striations are discussed.
+Case studies in this section: The Jill Dando Shooting
+Week 6
+Topic: Drugs
+Synopsis: A survey of some of the more significant drugs is presented.
+Week 7
+Topic: Toxicology
+Synopsis: Poisoning, accidental, deliberate or occupational dates back into the mists of antiquity. In this section, different aspects of toxicology are introduced and Paracelsus’ concept of poison is discussed. Specific poisons, such as arsenic, sarin and thallium, are discussed in detail. Classifying harmful substances.
+Case studies in this section: Florence Maybrick; The Maine poisoning; Graham Young and his Strange Hobby; Paul Agutter and the Toxic Tonic; Georgi Markov and the Poisoned Umbrella; Alexander Litvinenko
+Week 8
+Topic: Case studies
+Synopsis: The course comes to its completion with a number of case studies that highlight important aspects of forensic science and some additional topics.
+Case studies in this section: The King in the Carpark; Annie Le; Peter Griffiths; Jon Benet Ramsey; George Metesky; Rachel Nickell; Ted Kacynski; The Soham murders; Dr Crippen
+
+Discrete Optimization
+The University of Melbourne
+The course has an open format.  At the start of the course all of the assignments and lectures are available and each student is free to design their own plan of study and proceed at their own pace.  The assessments in the course consist of five programming assignments and one extra credit assignment.  In the programming assignments, students experience the challenges of real world optimization problems such as selecting the most profitable locations of retail stores (warehouse location) and the design of package delivery routes (vehicle routing).  The class community is an important aspect of this course and students are encouraged to collaborate and help each other in the completion of the assignments.
+
+Web Intelligence and Big Data
+Indian Institute of Technology Delhi
+Look: Search, Indexing and Memory
+Listen: Streams, Information and Language, Analyzing Sentiment and Intent
+Load: Databases and their Evolution, Big data Technology and Trends
+Programming: Map-Reduce
+Learn: Classification, Clustering, and Mining, Information Extraction
+Connect: Reasoning: Logic and its Limits, Dealing with Uncertainty
+Programming: Bayesian Inference for Medical Diagnostics
+Predict: Forecasting, Neural Models, Deep Learning, and Research Topics
+Data Analysis: Regression and Feature Selection
+
+Coding the Matrix: Linear Algebra through Computer Science Applications
+Brown University
+The Function
+The Field
+The Vector
+The Vector Space
+The Matrix
+The Basis
+Dimension
+Gaussian Elimination
+The Inner Product
+Orthogonalization
+
+Analysis of Algorithms
+Princeton University
+Lecture  1  Analysis of Algorithms
+Lecture  2  Recurrences
+Lecture  3  Solving recurrences with GFs
+Lecture  4  Asymptotics
+Lecture  5  The symbolic method
+Lecture  6  Trees
+Lecture  7  Permutations
+Lecture  8  Strings and Tries
+Lecture  9  Words and Mappings
+
+Statistical Inference
+Johns Hopkins University
+In this class students will learn the fundamentals of statistical inference. Students will receive a broad overview of the goals, assumptions and modes of performing statistical inference. Students will be able to perform inferential tasks in highly targeted settings and will be able to use  the skills developed as a roadmap for more complex inferential challenges.
+
+Introduction to Logic
+Stanford University
+First of all, it teaches a novel theory of logic that improves accessibility while preserving rigor. Second, the material is laced with interactive demonstrations and exercises that suggest the many practical applications of the field.
+
+Model Thinking
+University of Michigan
+Section 2: Sorting and Peer Effects
+Section 3: Aggregation
+Section 4: Decision Models
+Section 5: Models of People: Thinking Electrons
+Section 6: Linear Models
+Section 7: Tipping Points
+Section 8: Economic Growth
+Section 9: Diversity and Innovation
+Section 10: Markov Processes
+Section 11: Lyapunov Functions
+Section 12: Coordination and Culture
+Section 13: Path Dependence
+Section 14: Networks
+Section 15:Randomness and Random Walks
+Section 16: The Colonel Blotto Game
+Section 17:The Prisoners' Dilemma and Collective Action
+Section 18: Mechanism Design: Auctions
+Section 19: Learning: Replicator Dynamics
+Section 20: The Many Model Thinker: Diversity and Prediction
+

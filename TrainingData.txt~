@@ -1,0 +1,393 @@
+Dynamical Modeling Methods for Systems Biology
+BIOLOGY&LIFE_SCIENCES MATHEMATICS
+Icahn School of Medicine at Mount Sinai
+Modeling in Systems Biology Computing with MATLAB Dynamical systems tools Modeling emergent Properties bistability in biochemical signaling Modeling the cell cycle Modeling electrical signaling in neurons Mathematical models of electrical signals Modeling the spatial dependence of intracellular signaling Mathematical models of processes in which randomness is important
+END
+Global Warming: The Science of Climate Change
+BIOLOGY&LIFE_SCIENCES
+The University of Chicago
+Climate Model On Greenhouse Gases and the Atmosphere The Carbon Cycle The Perturbed Carbon Cycle The Smoking Gun and Paleoclimate Impacts  Mitigation
+END
+Introduction to Systems Biology
+BIOLOGY&LIFE_SCIENCES
+Icahn School of Medicine at Mount Sinai
+Systems Level Reasoning Bottom-Up and Top-Down Approaches for Complex Systems Cell Signaling Pathways Molecules to Pathways cAMP and MAPkinase Pathways Signal Flow Pathways to Networks The Actin Cytoskeleton The Cell Motility Machine Mathematical Representations of Cell Biological Systems Time and Space Gathering Large Data Sets in Genomics and Proteomics Inferring Modules Computational Analysis of Large Data Sets Building Networks Small Scale Systems Biology Experiments Identifying Emergent Properties by Computation Dynamical Models Emergent Properties Ultrasensitivity Bistability Robustness and Fragility Modules to Functions Control Systems Module-Boundaries Sharp and Fuzzy Interactions between Subcellular Modules Emergence of Cellular Functions from Subcellular Modules Systems Analysis of Complex Diseases Systems Pharmacology Understanding Drug Action from a Systems Perspective
+END
+Epigenetic Control of Gene Expression
+BIOLOGY&LIFE_SCIENCES
+The University of Melbourne
+epigenetics Epigenetic modifications regulating gene expression and chromosome structure DNA methylation covalent histone modifications histone variants chromatin structure noncoding RNAs and 3D organisation of the nucleus Epigenetic phenomena in lower organisms Position effect variegation dosage compensation paramutation Mammalian epigenetics Epigenetic reprogramming genomic imprinting X inactivation Epigenetic deregulation in disease Rett syndrome ICF syndrome Imprinting disorders cancer Epigenetics and the environment diet maternal environment maternal care The Agouti viable yellow allele in mice maternal care in rats Dutch famine in humans
+END
+Understanding the Brain: The Neurobiology of Everyday Life
+BIOLOGY&LIFE_SCIENCES
+The University of Chicago
+neurons development and organization of the human brain Neuroanatomy Sensory and motor pathways nerves Strokes traumatic injuries and diseases Neural communication Information transfer in the nervous system Perception Vision The inner ear Hearing and balance Voluntary movement From stumbling movement Coordination chunking and habit Homeostasis Thermoregulation sleep and eating Executive function Memory language
+END
+Introduction to Human Behavioral Genetics
+BIOLOGY&LIFE_SCIENCES
+University of Minnesota
+nature-nurture debate behavioral genetics the eugenics movement behavioral genetics the John/Joan case phenylketonuria Psychology twin similarity Heritability statistical biometrical genetics gene-environment Human Genome epigenetics Prader-Willi Angelman syndromes Williams syndrome The Genetic Approach Psychiatric Phenotype schizophrenia Family socialization
+END
+Introduction to Neuroeconomics: how the brain makes decisions
+BIOLOGY&LIFE_SCIENCES ECONOMICS
+Higher School of Economics
+Brain anatomy and functions neuroscience brain anatomy and brain functions EEG MEG fMRI brain stimulation TMS cell visualization interpretation brain models of decision making and choice Neuro-cognitive models of the choice comparison with formal models of decision making Neural representation of the subjective value basal ganglia and choice value Brain mechanisms of risky choice and ambiguity Economic rationality and emotions psychology Dual processing Two systems in the brain emotional processes versus controlled cognitive processes Society of Brains The social brain Social perception empathy social preferences theory of mind inequity persuasion conformity Taking an evolutionary perspective the economic animal Primate studies of economic behaviour Animals’ economy a model of human economy 
+END
+Network Analysis in Systems Biology
+BIOLOGY&LIFE_SCIENCES CompSci_AI STATISTICS_DA
+Icahn School of Medicine at Mount Sinai
+Molecular and Cell Biology
+Existing Data Resources in Systems Biology and Systems Pharmacology
+Types of Networks in Systems Biology
+Networks Ball-and-Stick Diagrams and other Network Visualizations
+Gene Expression Data Analysis Microarrays RNA-seq and ChIP-seq
+Hierarchical Clustering Plots
+Principal Component Analysis and Multi-Dimensional Scaling
+Gene Set Enrichment Analysis and Fuzzy Set Enrichment Analysis
+Integrating Multiple Types of Large Datasets
+From Gene Expression to Pathways Expression2Kinases and Genes2Networks
+Functional Association Networks Sets2Networks
+Network Pharmacology Drug-Drug Similarity and Drug-Target Networks
+Crowdsourcing Microtasks and Megatasks
+Solving Systems Biology Research Problems
+END
+Nanotechnology: The Basics
+BIOLOGY&LIFE_SCIENCES CHEMISTRY
+Rice University
+nanotechnology materials nanotechnology pantheon
+Electronics wires and transistors
+magnets Magnetism MRI imaging Nanotechnology 
+Shedding light on nanoscale materials and photonics Compared to electrons photons materials Nanomaterials diffraction or plasmonics nanotechnology solid state lasers
+END
+GPU (Biomolecular modeling on GPU)
+BIOLOGY&LIFE_SCIENCES CHEMISTRY
+Moscow Institute of Physics and Technology
+Computer experiment in biology Experiment theory and modeling Biological molecules Water Amino acids and primary structure of the protein Types of secondary structures Tertiary and quaternary structure of the protein
+protein folding proteins and protein complexes Experiments molecules Nucleic acids Database of protein structures VMD package for visualization and analysis of the structure of biological molecules
+Molecular mechanics Three fundamental principles of molecular mechanics additivity hypothesis portability and thermodynamic hypothesis The concept of a force field Potential function and its parameters Molecular dynamics simulation and coarse
+Simulation of simple molecules molecular dynamics software package NAMD2 Construction of the system topology add missing atoms solvent molecules and ions Minimization of energy the heating system and the equilibrium modeling
+Graphics processors GPU GP architecture Programming GPUs Technology CUDA Computing cores memory GP organization of the program Example
+Numerical methods for molecular dynamics and their implementation on the CPU and GPU Statement of the problem the implementation of numerical integration of the equations of motion
+Numerical methods for molecular dynamics and their implementation on the CPU and GPU covalent interaction between atoms Implementation of non-bonded potential Optimization methods of calculation
+END
+Statistical Mechanics: Algorithms and Computations
+CHEMISTRY MATHEMATICS
+École normale supérieure
+Monte Carlo algorithms
+Hard disks From Classical Mechanics to Statistical Mechanics
+Energy Free energy and Phase transitions
+Sampling and integration From Gaussians to the Maxwell and Boltzmann distributions
+Quantum Statistical Mechanics Density matrix and path integral
+Quantum Monte Carlo and path-integral sampling
+Bose-Einstein condensation
+Classical spin models From basic enumerations to the Cluster Monte Carlo algorithms
+Classical spin models Faster-than-the clock algorithms
+The Alpha and Omega of Monte Carlo From zero variances in Buffon's needles to infinite variances in Lévy's stable distributions
+END
+General Game Playing
+CompSci_AI MATHEMATICS
+Stanford University
+strategy games formal game descriptions runtime Deep Blue general game players discover algorithms General game playing expertise
+GGP modeling discrete dynamic systems incompleteness of information and resource
+END
+Fundamentals of Digital Image and Video Processing
+CompSci_AI MATHEMATICS
+Northwestern University
+Introduction Image and Video Processing vs Image and Video Analysis vs Computer Vision the electromagnetic spectrum applications of image and video processing
+2D and 3D signals and systems linear and shift invariant systems convolution
+2D and 3D Fourier transform 2D and 3D discrete-Fourier transform uniform sampling rectangular arbitrary geometry
+Motion estimation and its applications
+Image and video enhancement edge detection noise filtering histogram equalization inpainting
+Image recovery restoration super-resolution
+Video recovery restoration super-resolution
+Lossless compression
+Image compression techniques and standards
+Video compression techniques and standards
+Image and video analysis 2D and 3D segmentation anomaly detection clustering
+Sparsity-based advances in image and video processing
+END
+Digital Signal Processing
+CompSci_AI MATHEMATICS
+École Polytechnique Fédérale de Lausanne
+signal processing
+Discrete-time DT signals the discrete-time complex exponential and a computer music synthesis example
+Euclid and Hilbert Signal processing as geometry vectors spaces bases approximations
+Fourier Analysis The discrete Fourier transform DFT and series DFS The discrete-time Fourier transform DTFT Examples The fast Fourier transform algorithm FFT
+Linear Filters Linear time-invariant systems convolution ideal and realizable filters Filter design and implementation examples
+Interpolation and Sampling Continuous-time CT signals interpolation sampling The sampling theorem as orthonormal basis expansion Processing of CT signals in DT
+Stochastic Signal Processing and Quantization Stochastic signals quantization analog-to-digital ADC and digital-to-analog DAC conversion
+Image Processing Introduction to image processing and two-dimensional 2D Fourier analysis Filtering and compression The JPEG compression standard
+Digital Communication Systems Analog channels and bandwidth power constraints Modulation and demodulation Transmitter and receiver design ADSL
+END
+Neural Networks for Machine Learning
+CompSci_AI MATHEMATICS STATISTICS_DA
+University of Toronto
+Neural networks speech recognition object recognition image retrieval 
+END
+Natural Language Processing
+CompSci_AI
+Columbia University
+Language modeling
+Hidden Markov models and tagging problems
+Probabilistic context-free grammars and the parsing problem
+Statistical approaches to machine translation
+Log-linear models and their application to NLP problems
+Unsupervised and semi-supervised learning in NLP
+END
+Game Theory
+CompSci_AI MATHEMATICS ECONOMICS
+Stanford University
+game theory some applications and examples and formal definitions of the normal form payoffs strategies pure strategy Nash equilibrium dominated strategies
+Mixed-strategy Nash equilibria Definitions examples real-world evidence
+Alternate solution concepts iterative removal of strictly dominated strategies minimax strategies and the minimax theorem for zero-sum game correlated equilibria
+Extensive-form games Perfect information games trees players assigned to nodes payoffs backward Induction subgame perfect equilibrium imperfect-information games mixed versus behavioral strategies
+Repeated games Repeated prisoners dilemma finite and infinite repeated games limited-average versus future-discounted reward folk theorems stochastic games and learning
+Coalitional games Transferable utility cooperative games Shapley value Core applications
+Bayesian games General definitions ex ante/interim Bayesian Nash equilibrium
+END
+Machine Learning
+CompSci_AI MATHEMATICS
+Stanford University 
+machine learning datamining and statistical pattern recognition Supervised learning parametric/non-parametric algorithms support vector machines kernels neural networks Unsupervised learning clustering dimensionality reduction recommender systems deep learning machine learning bias/variance theory innovation process AI web search anti-spam computer vision medical informatics audio database mining
+END
+Social Network Analysis
+CompSci_AI
+University of Michigan
+networks
+nodes edges adjacency matrix one and two-mode networks node degree
+social network social network Gephi
+Random network models Erdos-Renyi and Barabasi-Albert
+connected components giant component average shortest path diameter breadth-first search preferential attachment
+random networks calculate component distribution average shortest path evaluate impact of structure on ability of information to diffuse
+Network centrality
+betweenness closeness eigenvector centrality PageRank network centralization
+calculate and interpret node centrality for real-world networks your Facebook graph the Enron corporate email network Twitter networks etc Community
+clustering community structure modularity overlapping communities
+disjoint and overlapping communities networks scientific collaborations political blogs cooking ingredients etc
+Small world network models optimization strategic network formation and search
+small worlds geographic networks decentralized search
+Evaluate whether several real-world networks exhibit small world properties simulate decentralized search on different topologies evaluate effect of small-world topology on information diffusion
+Contagion opinion formation coordination and cooperation
+simple contagion threshold models opinion formation
+Cool and unusual applications of SNA
+economic development using product space networks
+SNA and online social networks
+Facebook LinkedIn Twitter CouchSurfing SNA
+SNA
+END
+Introduction to Mathematical Philosophy
+MATHEMATICS
+Ludwig-Maximilians-Universität München (LMU)
+Infinity Zeno's Paradox Galileo's Paradox very basic set theory infinite sets
+Truth Tarski's theory of truth recursive definitions complete induction over sentences Liar Paradox
+Rational Belief propositions as sets of possible worlds rational all-or-nothing belief rational degrees of belief bets Lottery Paradox
+If-then indicative vs subjunctive conditionals conditionals in mathematics conditional rational degrees of belief beliefs in conditionals vs conditional beliefs
+Confirmation the underdetermination thesis the Monty Hall Problem Bayesian confirmation theory
+Decision decision making under risk maximizing xpected utility von Neumann Morgenstern axioms and representation theorem Allais Paradox Ellsberg Paradox
+Voting Condorcet Paradox Arrows Theorem Condorcet Jury Theorem Judgment Aggregation
+Quantum Logic and Probability statistical correlations the CHSH inequality Boolean and non-Boolean algebras violation of distributivity
+END
+Mathematical Methods for Quantitative Finance
+MATHEMATICS ECONOMICS
+University of Washington
+Functions and inverse functions
+Limits derivatives partial derivatives and chain rule
+Integrals and multiple integrals changing the order of differentiation and integration
+Taylor series approximations
+Newton’s method
+Lagrange multiplier method
+Vector and matrix arithmetic determinants eigenvalue-eigenvector decomposition singular value decomposition
+Numerical methods for optimization 
+END
+Regression Models
+MATHEMATICS
+Johns Hopkins University
+regression models interpret coefficients investigate residuals and variability dummy variables and multivariable adjustment Extensions linear models especially Poisson and logistic regression
+END
+Asset Pricing
+MATHEMATICS ECONOMICS
+The University of Chicago
+dz dt Continuous Time Stochastic Models
+Basic Consumption-Based Model
+Finance Equilibrium Contingent Claims Risk-Neutral Probabilities
+State-Space Representation Risk Sharing Aggregation Existence of a Discount Factor
+Mean-Variance Frontier Beta Representations Conditioning Information
+Factor Pricing Models Value Premium the Fama-French model 
+Options and Bonds Relative Pricing in Action Term Structure Definitions
+Term Structure Models
+Portfolio Theory
+END
+Games without Chance: Combinatorial Game Theory
+MATHEMATICS
+Georgia Institute of Technology
+Mathematics course AP calculus
+END
+High Performance Scientific Computing
+STATISTICS_DA
+University of Washington
+Working at the command line in Unix-like shells Linux or a Mac OSX terminal
+Version control systems particularly git and the use of Github and Bitbucket repositories
+Work habits for documentation of your code and reproducibility of your results
+Interactive Python using IPython and the IPython Notebook
+Python scripting and its uses in scientific computing
+Subtleties of computer arithmetic that can affect program correctness
+How numbers are stored binary vs ASCII representations, efficient I/O
+Fortran 90 a compiled language that is widely used in scientific computing
+Makefiles for building software and checking dependencies
+The high cost of data communication Registers cache main memory and how this memory hierarchy affects code performance 
+OpenMP on top of Fortran for parallel programming of shared memory computers such as a multicore laptop
+MPI on top of Fortran for distributed memory parallel programming such as on a cluster
+Parallel computing in IPython
+Debuggers unit tests regression tests verification and validation of computer codes
+Graphics and visualization of computational results using Python
+END
+Big Data and Information Dissemination
+STATISTICS_DA
+Fudan University
+Introduction IT revolution brings up digital media and transforms the relationship among people media & information
+The fundamental structure of web Social media as a platform the framework of media the paths of messages transition & diffusion
+Observation and discrimination of the special crowds communities living in the words of social media. Introduction of useful methods & tools for identifying online communities data analytics
+Clarifying the principles of embedding concatenation and emergence operations in online society Analysis the different stages in the development of community
+Emotional relationships among online crowds Sentimental analysis in social network
+Understanding the word-of-mouth in social network how it is engendered or formed its dynamics and its effects in online society with test tools and estimate methods
+The unique effect of occupying the entrance in webs Take APP as case-study to show the values of the terminals of mobile phones the classification of APP position analysis, the types of putting-on the market customer analysis and effects etc of advertisement 
+PR vs Marketing in socialnet Net is already a popular social stage for modern public communication Analysis the basic methods for online planning or strategy the new standards & criteria for Big Data PR
+The importance of searching engines in the mobile epoch The evolution of mobile searching competition in the terminals of mobile searching the competition in between desk & mobile search engines users’ habits with media equipment and their effects The current situation perspectives and problems with applying search engines in brand communication market promotion
+END
+The Data Scientist’s Toolbox
+STATISTICS_DA
+Johns Hopkins University
+Upon completion of this course you will be able to identify and classify data science problems You will also have created your Github account created your first repository and pushed your first markdown file to your account
+END
+R Programming
+STATITICS_DA
+Johns Hopkins University
+Overview of R R data types and objects reading and writing data
+Control structures functions scoping rules dates and times
+Loop functions debugging tools
+Simulation code profiling
+END
+Getting and Cleaning Data
+STATISTICS_DA
+Johns Hopkins University
+Upon completion of this course you will be able to obtain data from a variety of sources You will know the principles of tidy data and data sharing Finally you will understand and be able to apply the basic tools for data cleaning and manipulation
+END
+Core Concepts in Data Analysis
+STATISTICS_DA
+Higher School of Economics
+Intro Examples of data and data analysis problems visualization       
+1D analysis Feature scales Histogram Two common types of histograms Gaussian and Power Law Central values Minkowski distance and data recovery view Validation with Bootstrap
+Both quantitative Scatter-plot linear regression correlation and determinacy coefficients: meaning and properties Both nominal Contingency table Quetelet index Pearson chi-squared coefficient its double meaning and visualization                                                              
+Learning multivariate correlations
+Bayes approach and Naïve Bayes classifier with a Bag-of-words text model Decision trees and criteria for building them
+Principal components PCA and SVD
+SVD model behind PCA student marks as the product of subject factor scores and subject loadings Application to deriving a hidden underlying factor Data visualization with PCA Conventional PCA and data normalization issues
+Clustering with k-means
+K-Means iterations and K-Means features
+K-Means criterion Anomalous clusters and intelligent K-Means
+END
+Regression Models
+STATISTICS_DA MATHEMATICS
+Johns Hopkins University
+In this course students will learn how to fit regression models how to interpret coefficients how to investigate residuals and variability  Students will further learn special cases of regression models including use of dummy variables and multivariable adjustment Extensions to generalized linear models especially considering Poisson and logistic regression will be reviewed
+END
+Data Analysis and Statistical Inference
+STATISTICS_DA MATHEMATICS
+Duke University
+Introduction to data
+Designing studies
+Exploratory data analysis
+Introduction to inference via simulation
+Probability and distributions
+Defining probability
+Conditional probability
+Normal distribution
+Binomial distribution
+Foundations for inference
+Variability in estimates and the Central Limit Theorem
+Confidence intervals
+Hypothesis tests
+Finish up Unit 3 + Midterm
+Inference for other estimators
+Decision errors significance and confidence
+Inference for numerical variables
+Comparing two means
+Bootstrapping
+Inference with the t-distribution
+Comparing three or more means ANOVA
+Inference for categorical variables
+Single proportion
+Comparing two proportions
+Inference for proportions via simulation
+Comparing three or more proportions Chi-square
+Introduction to linear regression
+Relationship between two numerical variables
+Linear regression with a single predictor
+Outliers in linear regression
+Inference for linear regression
+Multiple linear regression
+Regression with multiple predictors
+Inference for multiple linear regression
+Model selection
+Model diagnostics
+Review catch-up week
+Bayesian vs frequentist inference
+END
+Social and Economic Networks: Models and Analysis
+STATISTICS_DA ECONOMICS CompSci_Theory
+Stanford University
+Empirical Background and Definitions
+Social Networks Diameters Small Worlds Weak and Strong Ties Degree Distributions
+Background Definitions and Measures
+Homophily Dynamics Centrality Measures Degree Betweenness Closeness Eigenvector and Katz-Bonacich Erdos and Renyi Random Networks Thresholds and Phase Transitions
+Random Networks 
+Poisson Random Networks Exponential Random Graph Models Growing Random Networks Preferential Attachment and Power Laws Hybrid models of Network Formation
+Strategic Network Formation 
+Game Theoretic Modeling of Network Formation The Connections Model The Conflict between Incentives and Efficiency Dynamics Directed Networks Hybrid Models of Choice and Chance
+Diffusion on Networks
+Empirical Background The Bass Model Random Network Models of Contagion The SIS model Fitting a Simulated Model to Data
+Learning on Networks 
+Bayesian Learning on Networks The DeGroot Model of Learning on a Network Convergence of Beliefs The Wisdom of Crowds How Influence depends on Network Position
+Games on Networks 
+Network Games Peer Influences Strategic Complements and Substitutes the Relation between Network Structure and Behavior A Linear Quadratic Game Repeated Interactions and Network Structures
+END
+The Power of Macroeconomics: Economic Principles in the Real World
+ECONOMICS
+University of California, Irvine
+Modern Macroeconomics
+The Aggregate Supply-Aggregate Demand Model and the Classical-Keynesian Debate
+The Keynesian Model and Fiscal Policy
+The Federal Reserve and Monetary Policy
+Unemployment Inflation and Stagflation
+The Warring Schools of Macroeconomics
+Economic Growth and Productivity
+Budget Deficits and the Public Debt
+International Trade and Protectionism
+Exchange Rates The Balance of Payments and Trade Deficits
+The Economics of Developing Countries
+END
+Competitive Strategy
+ECONOMICS MATHEMATICS
+Ludwig-Maximilians-Universität München (LMU)
+your competitor
+Why firms work together 
+The power of complements
+enter a new market 
+research & development
+Design your product wisely
+END
+Climate Change
+ECONOMICS
+The University of Melbourne
+introduction socio-political scientific and economic aspects Climate Change analyse claims current scientific data and its predictions over the next decades rise in global temperature 
+END
+Automata
+CompSci_Theory
+Stanford University
+Finite Automata
+Regular Expressions and Properties of Regular Languages
+Context Free Grammars and Languages
+Properties of Context Free Languages plus introduction to Turing Machines
+Turing Machines and Undecidability
+Intractable Problems NP-Completeness
+END
